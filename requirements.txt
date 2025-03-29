@@ -2,3 +2,4 @@ tensorflow
 scikit-learn
 mlflow
 flask
+pytest
